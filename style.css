@@ -1,4 +1,24 @@
-body {background-color:tan;}
-h1{color:green;}
+body 
+{
+  background-color: black;
+}
+h1
+{
+  color: grey;
+ 
+}
+.a,.r,.y,.i{
+  
+  padding: 1px;
+}
+
+.content{
+  max-width: 450px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+}
 
 
